@@ -5,6 +5,6 @@ This is quick password spray testing tool for Active Directory to run tests from
 
 * To test credentials and authenticate to Active Directory it simply uses the *ldapwhoami* command.
 * Whenever there is a hit, it can send a notification email also.
-* reads passwords and user list from two input files
+* Reads passwords and user list from two input files
 
 **Note:** As always, any kind of security/penetreation testing requires authorization of proper stakeholders beforehand.
